@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">testForWeMo</string>
+    <string name="text_location_title">標記位置：</string>
+    <string name="btn_add">新增</string>
+    <string name="btn_save">儲存</string>
+    <string name="btn_confirm">確定</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_delete">刪除</string>
+    <string name="btn_edit">編輯</string>
+    <string name="text_photo_count_0_to_3_format">照片(%d/3)</string>
+    <string name="text_photo_count_format">照片(%d)</string>
+    <string name="edit_text_content_hint">請輸入內容</string>
+    <string name="edit_text_title_hint">請輸入標題</string>
+    <string name="text_select_image">選擇圖片</string>
+    <string name="text_content_title">Content：</string>
+    <string name="text_title_title">Title：</string>
+    <string name="text_update_time_title">UpdateTime：</string>
+    <string name="text_list_title">List Title</string>
+    <string name="text_location_permission_title">開啟位置權限</string>
+    <string name="text_location_permission_msg">位置權限已被關閉，需開啟才能正常使用</string>
+    <string name="text_insert_finish_toast">新增完成</string>
+    <string name="text_edit_finish_toast">編輯完成</string>
+    <string name="text_empty_msg">目前沒有資料，\n可透過右下角按鈕新增項目。</string>
 </resources>
